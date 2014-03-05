@@ -8,7 +8,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Information", "Information", "{D56F89D9-8225-4579-81E1-CCBA37E017B7}"
 	ProjectSection(SolutionItems) = preProject
 		API key.txt = API key.txt
+		getMSPs.js = getMSPs.js
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualScotParliament.UnitTests", "VisualScotParliament.UnitTests\VisualScotParliament.UnitTests.csproj", "{D6167492-FDD9-4028-AAA1-BEA855E118C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualScotParliament.RetrieveParliamentData", "VisualScotParliament.RetrieveParliamentData\VisualScotParliament.RetrieveParliamentData.csproj", "{5C120739-AAC3-49F6-8197-B914105D20D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +25,14 @@ Global
 		{2923BA3B-EBF1-4D93-89EC-58D358E7C181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2923BA3B-EBF1-4D93-89EC-58D358E7C181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2923BA3B-EBF1-4D93-89EC-58D358E7C181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6167492-FDD9-4028-AAA1-BEA855E118C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6167492-FDD9-4028-AAA1-BEA855E118C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6167492-FDD9-4028-AAA1-BEA855E118C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6167492-FDD9-4028-AAA1-BEA855E118C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C120739-AAC3-49F6-8197-B914105D20D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C120739-AAC3-49F6-8197-B914105D20D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C120739-AAC3-49F6-8197-B914105D20D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C120739-AAC3-49F6-8197-B914105D20D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

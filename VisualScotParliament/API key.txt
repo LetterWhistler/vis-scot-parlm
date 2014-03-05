@@ -1,1 +1,6 @@
+
+http://www.theyworkforyou.com/api/function?key=key&output=output&other_variables
+
 HFnf8dD4HZVEAuxm4xFuRYZP
+
+http://www.theyworkforyou.com/api/getMSPs?key=HFnf8dD4HZVEAuxm4xFuRYZP&output=js
