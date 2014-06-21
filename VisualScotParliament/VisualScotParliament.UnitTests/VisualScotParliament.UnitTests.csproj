@@ -50,14 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="TWFYServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\VisualScotParliament.Common\VisualScotParliament.Common.csproj">
-      <Project>{2923ba3b-ebf1-4d93-89ec-58d358e7c181}</Project>
-      <Name>VisualScotParliament.Common</Name>
-    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
